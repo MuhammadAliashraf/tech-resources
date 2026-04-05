@@ -1,5 +1,3 @@
-Here is your **final clean `README.md` file** — fully ready to paste into GitHub 👇
-
 ```md
 # 🚀 Tech Resources
 
