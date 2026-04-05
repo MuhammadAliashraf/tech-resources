@@ -1,0 +1,8 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": {
+            "fontStyle": "italic"
+        },
+        "textMateRules": []
+    }
+}

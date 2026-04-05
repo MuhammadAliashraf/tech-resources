@@ -58,6 +58,17 @@ This repository aims to:
 
 ---
 
+### 🛠️ Tools & Utilities
+- Mock API & Mock Data
+- API Marketplaces
+- AI Prototyping (Google Gemini)
+- Voice Interface Tools
+- Documentation & Standards
+
+📂 `tools-and-utilities/` ✨ [See Recommended Tools](tools-and-utilities/README.md)
+
+---
+
 ### 🛠️ DevOps & Tools
 - Git & GitHub
 - Docker
